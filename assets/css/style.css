@@ -60,12 +60,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-/**/
+/*Sets the margin and direction of where the box should be displayed on the page*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/**/
+/*Sets the images that are to be displayed on the right side on the page*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -76,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/**/
+/*Sets parameters for the benefits box on the right starting with the words Lead Generation*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
