@@ -3,7 +3,6 @@
 Description
 
 This project was based on the following User Story:
-
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -23,7 +22,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-This project has been a great experience and I'm amazed by what I can do in just 1 week. I've learned a lot from this project and have more confidence in the projects that follow.
+This project has been a great experience and I'm amazed by what I can do in just 1 week. I've learned a lot from this project and have more confidence in the projects that will follow.
 ```
-Here's a screenshot of the finished page:
+Here are the links: 
+GitHub Repo URL: https://github.com/Dhabi966/Challenges.git
+GitHub Pages Link: https://dhabi966.github.io/Challenges/
 
+Also, here is a screenshot of the finished page:
+```
+![](../../../Screenshots/Horiseon%20webpage%20screenshot.png)
