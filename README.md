@@ -30,4 +30,4 @@ GitHub Pages Link: https://dhabi966.github.io/Challenges/
 
 Also, here is a screenshot of the finished page:
 ```
-![](../../../Screenshots/Horiseon%20webpage%20screenshot.png)
+![](Horiseon%20webpage%20screenshot.png)
