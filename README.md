@@ -25,7 +25,9 @@ THEN I find a concise, descriptive title
 This project has been a great experience and I'm amazed by what I can do in just 1 week. I've learned a lot from this project and have more confidence in the projects that will follow.
 ```
 Here are the links: 
+```
 GitHub Repo URL: https://github.com/Dhabi966/Challenges.git
+
 GitHub Pages Link: https://dhabi966.github.io/Challenges/
 
 Also, here is a screenshot of the finished page:
