@@ -5,11 +5,12 @@ Description
 This project was based on the following User Story:
 
 AS A marketing agency
+```
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 AND Acceptance Criteria:
-
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -31,5 +32,5 @@ GitHub Repo URL: https://github.com/Dhabi966/Challenges.git
 GitHub Pages Link: https://dhabi966.github.io/Challenges/
 
 Also, here is a screenshot of the finished page:
-```
+
 ![](Horiseon%20webpage%20screenshot.png)
